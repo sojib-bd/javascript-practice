@@ -1,3 +1,9 @@
+// Using alert, prompt
+
+let quesiton = prompt('Do you know JavaScript?', 10)
+
+alert(`${quesiton},welcome to this section`)
+
 // Data Type in JavaScript
 
 /* 
@@ -98,3 +104,4 @@ let a = 1,
     b = 3;
 
 alert(b - a)
+
