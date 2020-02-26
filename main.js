@@ -1,8 +1,8 @@
 // Using alert, prompt
 
-let quesiton = prompt('Do you know JavaScript?', 10)
+let quesiton = ('How old are you?', 20)
 
-alert(`${quesiton},welcome to this section`)
+//alert(`${quesiton},welcome to this section`)
 
 // Data Type in JavaScript
 
@@ -103,5 +103,5 @@ console.log(firstName, lastName)
 let a = 1,
     b = 3;
 
-alert(b - a)
+//alert(b - a)
 
